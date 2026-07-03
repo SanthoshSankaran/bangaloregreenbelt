@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unrivaled-rugelach-78efed.netlify.app/sitemap.xml
